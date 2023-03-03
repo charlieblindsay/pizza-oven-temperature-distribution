@@ -6,8 +6,8 @@ Overview:
 - **Numerical method used**: Finite difference explicit method; the heat diffusion equation was discretized in space and time.
 
 ## If you want to find out more:
-### - Read the report: https://drive.google.com/file/d/1X5WX9Xp9M6PUcWB-OCPH4tHg4VDkqZWy/view?usp=sharing
-### - See Jupyter notebook in this repository for code
+### - For underlying Maths, read the report: https://drive.google.com/file/d/1X5WX9Xp9M6PUcWB-OCPH4tHg4VDkqZWy/view?usp=sharing
+### - For code, see Jupyter notebook in this repository
 
 ## Results
 These graphs show the temperature as a function of:
