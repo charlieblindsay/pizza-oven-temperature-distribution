@@ -7,3 +7,4 @@ Overview:
 - Partial differential equation used: Heat diffusion equation in cylindrical polar coordinates
 - Numerical method used: Finite difference explicit method; the heat diffusion equation was discretized in space and time
 
+![alt text](https://github.com/charlieblindsay/pizza-oven-temperature-distribution/blob/main/images/empty%20oven.png)
