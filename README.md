@@ -5,7 +5,9 @@ Overview:
 - **Partial differential equation used**: Heat diffusion equation in cylindrical polar coordinates
 - **Numerical method used**: Finite difference explicit method; the heat diffusion equation was discretized in space and time.
 
-## If you want to find out more: https://drive.google.com/file/d/1X5WX9Xp9M6PUcWB-OCPH4tHg4VDkqZWy/view?usp=sharing
+## If you want to find out more:
+### - Read the report: https://drive.google.com/file/d/1X5WX9Xp9M6PUcWB-OCPH4tHg4VDkqZWy/view?usp=sharing
+### - See Jupyter notebook in this repository for code
 
 ## Results
 These graphs show the temperature as a function of:
